@@ -1,6 +1,6 @@
 # Dice-Roll-iOS-App
 
-Dice Roll App created as part of the Londo App Brewery`s Complete iOS App Development Bootcamp.
+## Dice Roll App created as part of the Londo App Brewery`s Complete iOS App Development Bootcamp.
 
 Check the course link below:
 
